@@ -1,0 +1,8 @@
+{
+  "Folders": {
+    "ArchivedFilesPath": "C:\\pdf-page-splitter\\appdata\\archived",
+    "InputFilesPath": "C:\\pdf-page-splitter\\appdata\\input",
+    "OutputFilesPath": "C:\\pdf-page-splitter\\appdata\\output",
+    "RejectedFilesPath": "C:\\pdf-page-splitter\\appdata\\rejected"
+  }
+}
