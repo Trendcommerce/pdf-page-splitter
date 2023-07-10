@@ -24,7 +24,7 @@
 
 ## Dependencies
 
-The application requires .NET Core 3.1+ runtime.
+The application requires **.NET Core 3.1+** runtime. It also makes use of the **iText7** library for the PDF processing tasks.
 
 ## License
 
