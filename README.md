@@ -1,3 +1,5 @@
+![GitHub](https://img.shields.io/github/license/Trendcommerce/pdf-page-splitter)
+
 # PDF Page Splitter
 
 `PDF Page Splitter` is an efficient, console-based C# application that reads and processes PDF files from a specified folder, identifies any existing whitespace labels, and subsequently creates separate, paginated PDF files. The application not only robustly handles errors but also maintains a comprehensive logging system for all operational activities.
